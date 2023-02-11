@@ -1,0 +1,5 @@
+C:\Users\Diogo\Downloads\T4\d.Net\T4\Publish\T4.exe
+C:\Users\Diogo\Downloads\T4\d.Net\T4\Publish\T4.dll
+C:\Users\Diogo\Downloads\T4\d.Net\T4\Publish\T4.deps.json
+C:\Users\Diogo\Downloads\T4\d.Net\T4\Publish\T4.runtimeconfig.json
+C:\Users\Diogo\Downloads\T4\d.Net\T4\Publish\T4.pdb

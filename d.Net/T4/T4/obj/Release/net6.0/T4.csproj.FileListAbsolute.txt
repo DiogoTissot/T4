@@ -1,0 +1,15 @@
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\bin\Release\net6.0\T4.exe
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\bin\Release\net6.0\T4.deps.json
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\bin\Release\net6.0\T4.runtimeconfig.json
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\bin\Release\net6.0\T4.dll
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\bin\Release\net6.0\T4.pdb
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\T4.csproj.AssemblyReference.cache
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\T4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\T4.AssemblyInfoInputs.cache
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\T4.AssemblyInfo.cs
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\T4.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\T4.dll
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\refint\T4.dll
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\T4.pdb
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\T4.genruntimeconfig.cache
+C:\Users\Diogo\Downloads\T4\d.Net\T4\T4\obj\Release\net6.0\ref\T4.dll

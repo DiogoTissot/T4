@@ -24,3 +24,5 @@ else
 {
     Console.WriteLine("Não foi possível inserir os dados");
 }
+Console.WriteLine("Pressione uma tecla para sair do programa");
+Console.ReadLine();
